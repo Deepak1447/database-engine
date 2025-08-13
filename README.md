@@ -4,7 +4,7 @@ Database Engine that supports some features like:
 - Inserting into a table.
 - Updating a table
 - Deleting from a table
-- Selecting from a table
+- Selecting from a table.
 - Creating an Index -using Octree-
 - Writing SQL queries
 - Supported data types: **int** (java.lang.Integer), **double** (java.lang.Double), **date** (java.util.Date), **varchar** (java.lang.String)   
